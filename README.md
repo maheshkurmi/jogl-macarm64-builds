@@ -6,7 +6,7 @@ Just add them to classpath to add jogl natively on mac M1
 Macbook pro M1 2020
 zulu-8.jdk for arm64
 
-##Build instructions
+## Build instructions
 Follow https://github.com/jzy3d/jogl/blob/feature/macosx-arm64/HOW-TO-ADD-ARM64-TO-2.4.md for gluegen and jogl builds respectively
 ###for JOAL builds
 * clone joal from https://jogamp.org/cgit/joal.git/
